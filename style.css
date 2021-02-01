@@ -36,6 +36,7 @@
      font-size: 44px;
      font-weight: 600;
      margin-right: 0.5em   ;
+     margin-bottom: 1.0em;
  }
  .my_socials a span{
      background-color: #333; 
@@ -108,8 +109,7 @@
  .my_info p{
      font-size: 15px;
      color: #ffffff;
-     line-height: 28px;
-     margin: 20px auto 40px;
+     margin: 9px auto 6px;
      width:  80%;
      letter-spacing: 1px;
      text-transform:  capitalize;
@@ -149,7 +149,7 @@ h3 .text-center{
     text-transform: capitalize;
 }
 .about{
-    padding: 6em 0;
+    padding: 1em 0;
      
 }
 .tab-pane{
@@ -199,7 +199,7 @@ h3 .text-center{
 .about_right p {
     line-height: 28px;
     color: #212121;
-    letter-spacing: 5px;
+    letter-spacing: 2px;
     font-size: 14px;
     text-transform: capitalize;
     padding-top: 1em;
