@@ -145,20 +145,24 @@ h3 .text-center{
 }
 .about{
     padding: 6em 0;
+     
+}
+.tab-pane{
+    width: 200%;
 }
 .about_left{
     background: url(images/download.png) no-repeat 0px 0px;
-    background-size: cover;
+    background-size: 92%;
     min-height: 500px !important;
     padding: 5em 0em 0em 4em;
 }
-ui.adress li, ul.adress_text li{
+ ul.adress_text li{
     display: inline-block;
     color: rgb(12, 11, 11);
     margin-top: 1em;
  
 }
-ul.adress li a, ul.adress_text li a{
+ ul.adress_text li a{
     color: rgb(14, 13, 13)
 }
 .about_social a span {
@@ -195,7 +199,7 @@ ul.adress li a, ul.adress_text li a{
     border-bottom:  1px dashed #646464;
 }
 .about_right{
-    padding-left: 16em !important;
+    padding-left: 2em !important;
 }
 .about_right ul li a{
     padding: 10 30px;
