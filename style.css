@@ -40,10 +40,11 @@
  }
  .my_socials a span{
      background-color: #333; 
+     margin-top: 32em !important;
      color:#ffffff; 
      font-size: 15px;
      outline-offset: 2px;
-     outline: 2px solid #353535;
+     outline: 2px solid #ffffff;
      width: 30px;
      height: 30px;
      text-align: center;
@@ -106,7 +107,7 @@
      line-height: 1.4em;
      font-weight: 300;
  }
- .my_info p{ 
+ .my_info p{
      font-size: 15px;
      color: #ffffff;
      margin: 9px auto 6px;
