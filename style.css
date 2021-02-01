@@ -1,0 +1,220 @@
+ body{
+     margin:0;
+     padding: 0;;
+ }
+ body a{
+     text-decoration: none;
+ }
+ nav.my_navbar{
+     padding: .5em  0;
+ }
+ .logo a{
+     font-size: 38px;
+     font-weight: lighter;
+     color: #ff6c5f;
+     font-family: system-ui;
+ }
+ .logo a:hover{
+     color: #ff6c5f;
+ }
+ .logo a span{
+     font-weight: 700; 
+ }
+ .logo {
+     float:left;
+     margin-left: 8%;
+     
+ }
+ .right {
+     float: right;
+     padding-right: 8%;
+ }
+ .my_socials{ 
+     margin-top: 12px;
+ }
+ .my_socials a span{
+     background-color: #333; 
+     color:#ffffff; 
+     font-size: 15px;
+     outline-offset: 2px;
+     outline: 2px solid #353535;
+     width: 30px;
+     height: 30px;
+     text-align: center;
+     line-height: 30px;
+     margin: 0 10px;
+     transition:  0.5s all;
+     -webkit-transition:  0.5s all;
+     -moz-transition: 0.5s all;
+     -mos-transition: 0.5s all;
+     -o-transition: 0.5s all;
+ }
+ .my_socials a span:hover{
+     background-color: #3b5998;
+     color: fff;
+     outline: 2px solid #3b5998;
+ }
+ .my_socials a span#instagram:hover{
+    background-color: #FD1D1D;  
+   
+} 
+ .my_socials ul li{
+     display: inline-flex;
+ }
+ ul {
+     margin: 0;
+     padding: 0;
+ }
+ li {
+     list-style-type: none;
+ }
+ .top{
+    margin-top: 50px;
+ }
+ .pad{
+    margin-top: 13px;
+ }
+ .my_banner{
+     background: url(images/22384056_2078114272408116_1240103892021217375_o.jpg) no-repeat 0px 0px;
+     background-size:  contain;
+     -webkit-backdrop-size:cover ;
+     -moz-background-size:cover;
+     -o-background-size:cover;
+ 
+ }
+ .my_dot{
+     background: url() no-repeat 0px 0px;
+     background-size:  cover;
+     -webkit-backdrop-size:cover ;
+     -moz-background-size:cover;
+     -o-background-size:cover;
+     height: 160vh;
+ }
+ .my_info{
+     text-align: center;
+ }
+ .my_info h1, .my_info h2, .my_info h3 {
+     font-size: 45px;
+     color: #ffffff;
+     text-transform: uppercase;
+     line-height: 1.4em;
+     font-weight: 300;
+ }
+ .my_info p{
+     font-size: 15px;
+     color: #ffffff;
+     line-height: 28px;
+     margin: 20px auto 40px;
+     width:  80%;
+     letter-spacing: 1px;
+     text-transform:  capitalize;
+ }
+ .my_info ul li {
+     display: inline-block;
+     margin-bottom: 3em;
+
+ }
+ .my_info ul li a{
+     padding: 10px 30px;
+     text-decoration: none;
+     color: #212121;
+     font-size: 15px;
+ }
+ .my_contact, .my_more:hover{
+     border: 2px solid #FFF;
+     color: #ffffff !important;
+     background: #ffffff
+ }
+ .my_more, .my_contact:hover{
+    border: 2px solid #FFF;
+    color: #000 !important;
+    background: #ffffff
+}
+.my_info h1 span, .my_info h2 span, .myinfo h3 span{
+    font-weight: 700;
+    color: #00bee4;
+}  
+.slides{
+    margin-top: 10%;
+}
+h3 .text-center{
+    font-size: 40px;
+    margin-bottom: 1.5em;
+    columns: #000;
+    text-transform: capitalize;
+}
+.about{
+    padding: 6em 0;
+}
+.about_left{
+    background: url(images/download.png) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 500px !important;
+    padding: 5em 0em 0em 4em;
+}
+ui.adress li, ul.adress_text li{
+    display: inline-block;
+    color: rgb(12, 11, 11);
+    margin-top: 1em;
+ 
+}
+ul.adress li a, ul.adress_text li a{
+    color: rgb(14, 13, 13)
+}
+.about_social a span {
+    background-color:  #eee;
+    color: #333;
+    font-size: 15px;
+    outline: 2px solid #f3f3f3;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin: 0 10px;
+}
+.about_right h3 {
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    color: #ff6c5f;
+    margin-bottom: 1em;
+}
+.about_right h4 {    
+    text-transform: capitalize;
+    color: #252323;
+    margin-bottom: 1em;
+    margin-top:5%;
+}
+.about_right p {
+    line-height: 28px;
+    color: #212121;
+    letter-spacing: 5px;
+    font-size: 14px;
+    text-transform: capitalize;
+    padding-top: 1em;
+    padding-bottom: 10em;
+    border-bottom:  1px dashed #646464;
+}
+.about_right{
+    padding-left: 16em !important;
+}
+.about_right ul li a{
+    padding: 10 30px;
+    text-decoration:none;
+    color: #333;
+    font-size: 15px;
+    border: 2px solid #333;
+}
+.about ul li {
+    display: inline-block;
+    margin-top: 2em;
+}
+.about_contact, .about_more:hover {
+    border: 2px solid #333;
+    color: #333 !important;
+    background: none;
+}
+.about_more .about_contact:hover {
+    border: 2px solid #333;
+    color: #ffffff !important;
+    background: #333;
+}
