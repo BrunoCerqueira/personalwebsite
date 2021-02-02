@@ -39,7 +39,7 @@
      margin-bottom: 1.0em;
  }
  #about-my-socials{
-    margin-top: 31em !important;
+    margin-top: 28em !important;
  }
  .my_socials a span{
      background-color: #333; 
@@ -85,7 +85,7 @@
  }
  .my_banner{
      background: url(images/22384056_2078114272408116_1240103892021217375_o.jpg) no-repeat 0px 0px;
-     background-size:  contain;
+     background-size:  cover;
      -webkit-backdrop-size:cover ;
      -moz-background-size:cover;
      -o-background-size:cover;
@@ -97,7 +97,7 @@
      -webkit-backdrop-size:cover ;
      -moz-background-size:cover;
      -o-background-size:cover;
-     height: 160vh;
+     height: 74vw;
  }
  .my_info{
      text-align: center;
@@ -160,7 +160,7 @@ h3 .text-center{
 }
 .about_left{
     background: url(images/download.png) no-repeat 0px 0px;
-    background-size: 92%;
+    background-size: 85%;
     min-height: 500px !important;
     padding: 5em 0em 0em 4em;
 }
@@ -232,4 +232,9 @@ h3 .text-center{
     border: 2px solid #333;
     color: #ffffff !important;
     background: #333;
+    
+}
+.about_more{
+   
+    margin-top: 50%;
 }
