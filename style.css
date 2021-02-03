@@ -267,7 +267,7 @@ letter-spacing: 2px;
 }
 .my_icon_grid1 i{
     font-size: 2.3em;
-    color:#1cc7d0;
+    color:#1cc7d0; 
     float:left;
     width: 40px;
 }
@@ -279,7 +279,7 @@ letter-spacing: 2px;
     color: #ccc;
     padding: 0 0em;
 } 
-#badge span #badge-name{
+#badge-name{
     color: #fff;
 }
 iframe {
