@@ -285,6 +285,9 @@ letter-spacing: 2px;
 iframe {
     width: 260px !important;
 }
+iframe body #badge span{
+    width: 260px !important;
+}
 .my_icon_grid_gap1{
     margin: 0em 0em 4em 0em;
     width: 1280px;
