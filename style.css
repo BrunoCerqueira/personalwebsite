@@ -279,6 +279,9 @@ letter-spacing: 2px;
     color: #ccc;
     padding: 0 0em;
 } 
+iframe {
+    width: 260px !important;
+}
 .my_icon_grid_gap1{
     margin: 0em 0em 4em 0em;
     width: 1280px;
