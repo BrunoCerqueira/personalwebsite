@@ -267,7 +267,7 @@ letter-spacing: 2px;
 }
 .my_icon_grid1 i{
     font-size: 2.3em;
-    color:#1cc7d0; 
+    color:#1cc7d0;
     float:left;
     width: 40px;
 }
@@ -275,22 +275,15 @@ letter-spacing: 2px;
     font-size: 14px;
     line-height: 28px;
     letter-spacing: 0.5px;
-    text-transform: capitalize; 
+    text-transform: capitalize;
     color: #ccc;
     padding: 0 0em;
 } 
-#badge-name{ 
-    color: #fff !important;
-}
 iframe {
-    width: 260px !important;
-    color: #fff !important;
-}
-iframe body #badge span{
-    width: 260px !important;
+    width: 300px !important;
 }
 .my_icon_grid_gap1{
-    margin: 0em 0em 4em 0em;
+    margin: 0em -7em 4em;
     width: 1280px;
 }
 .my_icon_grid_gap1 p {
