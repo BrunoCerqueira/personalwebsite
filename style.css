@@ -280,7 +280,7 @@ letter-spacing: 2px;
     padding: 0 0em;
 } 
 #badge-name{
-    color: #fff;
+    color: #fff !important;
 }
 iframe {
     width: 260px !important;
