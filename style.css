@@ -284,6 +284,7 @@ letter-spacing: 2px;
 }
 iframe {
     width: 260px !important;
+    color: #fff !important;
 }
 iframe body #badge span{
     width: 260px !important;
