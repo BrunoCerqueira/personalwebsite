@@ -32,6 +32,9 @@
  .my_socials{ 
      margin-top: 12px;
  }
+ .my_socials ul {
+    margin-bottom: -2rem !important;
+ }
  #about-title{
      font-size: 44px;
      font-weight: 600;
@@ -449,4 +452,6 @@ iframe html body {
 .grid7 span.fas{
     color: #4fffd9;
     border: 2px solid #4fffd9;
-}
+} 
+ 
+    
