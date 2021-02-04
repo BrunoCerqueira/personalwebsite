@@ -150,8 +150,13 @@
     font-family: monospace;
     color: white;
   }
-  .card img {
+  .card a:hover{
+    color: white;
+  }
+  .card img { 
     width: 50% !important;
+    max-width: 100%; height: auto;
+
   }
 .my_info h1 span, .my_info h2 span, .my_info h3 span {
     font-weight: 100;
