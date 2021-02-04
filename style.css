@@ -289,8 +289,8 @@ iframe {
 iframe span {
     color: #fff !important;
 }
-iframe body {
-    border: none;
+iframe html body {
+    border: none !important;
 }
 .my_icon_grid_gap1{
     margin: 0em -7em 4em;
