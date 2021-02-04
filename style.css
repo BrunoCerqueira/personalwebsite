@@ -128,16 +128,16 @@
      color: #212121;
      font-size: 15px;
  }
- .my_contact, .my_more:hover{
-     border: 2px solid #FFF;
-     color: #ffffff !important;
-     background: #ffffff
+ .my_contact{
+     border: 2px solid #000;
+     color: #0e0d0d !important;
+     background: #ffffff;
+     padding: 14px 25px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
  }
- .my_more, .my_contact:hover{
-    border: 2px solid #FFF;
-    color: #000 !important;
-    background: #ffffff
-}
+  
 .my_info h1 span, .my_info h2 span, .my_info h3 span {
     font-weight: 100;
     color: #ffffff; 
