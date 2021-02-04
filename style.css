@@ -285,6 +285,7 @@ letter-spacing: 2px;
 }
 iframe {
     width: 300px !important;
+    max-width: 300px !important;
 }
 iframe span {
     color: #fff !important;
