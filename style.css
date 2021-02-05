@@ -157,7 +157,7 @@
     color: white;
   }
   .card img { 
-    width: 50% !important;
+    width: 100%;
     max-width: 100%; height: auto;
 
   }
@@ -318,8 +318,9 @@ iframe html body {
     border: none !important;
 }
 .my_icon_grid_gap1{
-    margin: 0em -7em 4em;
-    margin-bottom: 220px;  
+    margin-left: 10%;
+    margin-bottom: 200px;
+}
 }
 .my_icon_grid_gap1 p {
     margin-left: -20%;
